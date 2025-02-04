@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **BI & EXCEL Projects**
 
 - 💬 Ask me about **Python,Sql,Power-Bi,Excel,Numpy,Pandas**
 
